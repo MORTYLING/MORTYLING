@@ -15,8 +15,7 @@
  
  <details>
 <summary> 🚷INTERESTS🚷 </summary
-<li>RICK AND MORTY</li></ul>
-<ul><li>DOOM PATROL</li>
+<ul><li>RICK AND MORTY</li>
 <li>NINAH</li>
 <li>FIGHT CLUB</li>
 <li>RESIDENT EVIL</li></ul>
@@ -33,6 +32,7 @@
 <li>AQUA TEEN HUNGE FORCE</li></ul>
 <li>FUTURAMA</li></ul>
 <li>HANNIBAL</li></ul>
+<li>DOOM PATROL</li></ul>
 
    
 </details>
