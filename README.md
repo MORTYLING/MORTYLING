@@ -1,6 +1,8 @@
 morty/coyle , 6teen , bpd , adhd , sus.ocd 
 
 ![1000006293](https://github.com/user-attachments/assets/a9480329-f435-441b-a1c0-e93335e0dc3d)
+<img width="126" height="126" alt="1000006297" src="https://github.com/user-attachments/assets/102235cb-d540-4042-96e5-b69427a9eb72" />
+<img width="126" height="162" alt="1000006294" src="https://github.com/user-attachments/assets/eb829dea-86b4-4a68-9b0d-0c5f5629ee2b" />
 
  
  <details>
