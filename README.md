@@ -9,8 +9,9 @@ no dni criteria
 
 
  <details>
-<summary> interests </summary
+<summary> stuff i like </summary
 <ul><li>RICK AND MORTY</li>
+ <li>CASUAL ASTRONOMY ENJOYER</li>
 <li>NINAH</li>
 <li>FIGHT CLUB</li>
 <li>RESIDENT EVIL</li></ul>
