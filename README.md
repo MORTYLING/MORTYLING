@@ -1,5 +1,4 @@
-morty/coyle , 6teen , bpd , adhd , sus.ocd 
-
+morty/coyle , 6teen , bpd , adhd , sus.ocd , 
 [ata](https://autocannibal.spaceadventures.org/) 
 
 ![1000006293](https://github.com/user-attachments/assets/a9480329-f435-441b-a1c0-e93335e0dc3d)
