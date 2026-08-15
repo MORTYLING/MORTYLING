@@ -1,12 +1,14 @@
-morty/coyle , 6teen , bpd , adhd , sus.ocd , 
+morty/coyle , 6teen , bpd , adhd , sus.ocd 
 
 [ata](https://spaceadventures.atabook.org/) 
+
+
 
 ![1000006293](https://github.com/user-attachments/assets/a9480329-f435-441b-a1c0-e93335e0dc3d)
 <img width="125" height="162" alt="1000006298" src="https://github.com/user-attachments/assets/bd617aa0-c180-4411-be64-f066a3946428" />
 
-no dni criteria
-
+no dni criteria  , , 
+[my lovely](https://github.com/MEATGRlNDER) 
 
  <details>
 <summary> stuff i like </summary
